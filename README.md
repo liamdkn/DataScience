@@ -1,13 +1,16 @@
 <h1>Data Science & Machine Learing Portfolio</h1>
 
 <h2>Introduction</h2>
-Welcome to my Data Science and Machine Learing portifilo! 
-My name is Liam Durkan and I am on track to graduate from South East Technological University, with a BSc(Honours) in Software Development. 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)
-Have a look at my [GitHub](https://www.github.com/liamdkn/)
-
+Welcome to my Data Science and Machine Learing portifilo!<br>
+My name is Liam Durkan and I am on track to graduate from South East Technological University, with a BSc(Honours) in Software Development<br> 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
+Have a look at my [GitHub](https://www.github.com/liamdkn/)<br> 
 
 <h2>About Me</h2>
+
+<h4>Technological Expierences<h4>
+    highlight technologies more, highlioght skills, 
+    summary of technologies, and expand on for each section
 
 <h4>Education</h4>
     Software Development BSc(Honours) - South East Technological University
@@ -34,6 +37,8 @@ Have a look at my [GitHub](https://www.github.com/liamdkn/)
 <h4>Skills</h4>
 
 
+
+
 <h2>Project 1: RTB Average Monthly Rent Report</h2>
 
 <h4>Project Description</h4>
@@ -51,6 +56,8 @@ Have a look at my [GitHub](https://www.github.com/liamdkn/)
     - Jupyter Notebooks 
 
 <h4>Outcome & Results</h4> 
+
+
 
 
 <h2>#2 Project 2</h2>
