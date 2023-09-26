@@ -4,12 +4,14 @@
 Welcome to my Data Science and Machine Learing Portfolio!<br>
 My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development<br>
 
+#### Contact Information
 Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
-Have a look at my [GitHub](https://www.github.com/liamdkn/)<br> 
+Check out my [GitHub](https://www.github.com/liamdkn/)<br> 
+Email: liamdurkan24@icloud.com
 
 ## About Me
-#### Technical Skills
-Languages I have expierence in: <br> 
+### Technical Skills
+I have experience in the following languages: <br> 
 - Java
 - C++
 - C#
@@ -18,15 +20,15 @@ Languages I have expierence in: <br>
 - CSS
 - React
 - Assembly Language
-- Bash 
+- Bash
 
-Expierence in the following softwares: <br>
-- GitHub
+Experience in the following softwares: <br>
 - Microsoft 
     - Azure 
-    - Microsoft Access
-    - Microsoft Excel, Powerpoint, Word
-    - Microsoft Visual Studio
+    - Access
+    - Excel, Powerpoint, Word
+    - VS Code & Visual Studio
+- GitHub
 - Postman
 - Arduino Integrated Enviroment
 - Eclipse
@@ -37,11 +39,11 @@ Expierence in the following softwares: <br>
 highlight technologies more, highlioght skills, 
 summary of technologies, and expand on for each section
 
-#### Education
+### Education
 - Currently undergoing a BSc(Honours) in Software Development  - South East Technological University
 - Robotics & Intelligent Devices BSc - Maynooth University (First Year)
 
-#### Professional Background
+### Professional Background
 In 2023, I completed an internship with NetWatch Ireland.<br>
 This internship was an invaluable learning experience where I used technologies such as; 
 - GraphQl 
@@ -51,8 +53,8 @@ This internship was an invaluable learning experience where I used technologies 
 - Azure
 - Postman
 
-#### Previous Projects
-Throught my years of study I have completed many projects that are linked below;
+### Previous Projects
+Throught my years of study, I have completed many projects that are linked below;
 
 - Music Library & Playlist Streaming Application - SETU
 - Line-Following Robot Using Arduino - Maynooth University
@@ -60,9 +62,9 @@ Throught my years of study I have completed many projects that are linked below;
 - Invoice Manager - Carlow IT 
 
 
-#### Intrests
-#### Skills
-
+### Intrests
+<p> As a software developer</p>
+### Skills
 
 
 ## Data Science & Machine Learning Projects
