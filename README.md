@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to my Data Science and Machine Learing Portfolio!<br>
-My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development<br>
+My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development.<br>
 
 #### Contact Information
 Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
@@ -10,6 +10,7 @@ Check out my [GitHub](https://www.github.com/liamdkn/)<br>
 Email: liamdurkan24@icloud.com
 
 ## About Me
+
 ### Technical Skills
 I have experience in the following languages: <br> 
 - Java
@@ -35,14 +36,15 @@ Experience in the following softwares: <br>
 - Plesk Web Host 
 - Cisco Packet Tracer
 
-
-highlight technologies more, highlioght skills, 
++highlight technologies more, highlioght skills, 
 summary of technologies, and expand on for each section
 
+---
 ### Education
+
 - Currently undergoing a BSc(Honours) in Software Development  - South East Technological University
 - Robotics & Intelligent Devices BSc - Maynooth University (First Year)
-
+---
 ### Professional Background
 In 2023, I completed an internship with NetWatch Ireland.<br>
 This internship was an invaluable learning experience where I used technologies such as; 
@@ -53,6 +55,7 @@ This internship was an invaluable learning experience where I used technologies 
 - Azure
 - Postman
 
+---
 ### Previous Projects
 Throught my years of study, I have completed many projects that are linked below;
 
@@ -61,10 +64,15 @@ Throught my years of study, I have completed many projects that are linked below
 - Blood Bank Management System - Carlow IT
 - Invoice Manager - Carlow IT 
 
-
+---
 ### Intrests
-<p> As a software developer</p>
+I will write my intrests here
+
+---
 ### Skills
+I will dicuss my technical skills here 
+
+---
 
 
 ## Data Science & Machine Learning Projects
@@ -85,19 +93,17 @@ In this project, I use data collected from the centeral satisics office (CSO) to
 - Jupyter Notebooks 
 
 #### Outcome & Results
+I will discuss the results of the RTB average rent report
 
-## Project 2
+---
+
+### Project 2
 #### Project Description
 #### Project Goals
 #### Tools and Technologies
+---
 
-
-## Project 3
+### Project 3
 #### Project Description
 #### Project Goals
 #### Tools and Technologies
-
-
-
-
-
