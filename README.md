@@ -1,10 +1,20 @@
 # Data Science & Machine Learing Portfolio
 
-## Table of Contents
+## Introduction
+Welcome to my Data Science and Machine Learing Portfolio!<br>
+My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development.<br>
+
+### Contact Information
+Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
+Check out my [GitHub](https://www.github.com/liamdkn/)<br> 
+Email: liamdurkan24@icloud.com
+
+
+## Portfolio Contents
 1. [Introduction](#introduction)
 2. [Contact Information](#contact-information)
 3. [Technical Skills](#technical-skills)
-4. [Edecuation](#education)
+4. [Education](#education)
 5. [Professional Background](#professional-background)
 6. [Previous Projects](#previous-projects)
 7. [Intrests](#intrests)
@@ -13,17 +23,7 @@
 10. [Project 2](#project-2)
 11. [Project 3](#project-3)
 
-## Introduction
-Welcome to my Data Science and Machine Learing Portfolio!<br>
-My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development.<br>
-
-#### Contact Information
-Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
-Check out my [GitHub](https://www.github.com/liamdkn/)<br> 
-Email: liamdurkan24@icloud.com
-
-
-
+---
 ## About Me
 
 ### Technical Skills
@@ -101,11 +101,17 @@ In this project, I use data collected from the centeral satisics office (CSO) to
 - Build a machine learing model to predict future rental prices.
 - Compare regional differences in prices.
 
+#### Data Sets
+
 #### Tools and Technologies
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebooks 
+
+#### Ethics
+
+#### Regulations 
 
 #### Outcome & Results
 I will discuss the results of the RTB average rent report
@@ -115,10 +121,19 @@ I will discuss the results of the RTB average rent report
 ### Project 2
 #### Project Description
 #### Project Goals
+#### Data Sets
 #### Tools and Technologies
+#### Ethics
+#### Regulations 
+#### Outcome & Results
+
 ---
 
 ### Project 3
 #### Project Description
 #### Project Goals
+#### Data Sets
 #### Tools and Technologies
+#### Ethics
+#### Regulations 
+#### Outcome & Results
