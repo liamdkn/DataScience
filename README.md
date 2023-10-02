@@ -1,25 +1,28 @@
 # Data Science & Machine Learing Portfolio
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Contact Information](#contact-information)
+3. [Technical Skills](#technical-skills)
+4. [Edecuation](#education)
+5. [Professional Background](#professional-background)
+6. [Previous Projects](#previous-projects)
+7. [Intrests](#intrests)
+8. [Skills](#skills)
+9. [Project 1: RTB Average Monthly Rent Report](#project-1-rtb-average-monthly-rent-report)
+10. [Project 2](#project-2)
+11. [Project 3](#project-3)
+
 ## Introduction
 Welcome to my Data Science and Machine Learing Portfolio!<br>
 My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development.<br>
-
-# Table of Contents
-1. [Contact Information](#contact-information)
-2. [Technical Skills](#technical-skills)
-3. [Edecuation](#education)
-4. [Professional Background](#professional-background)
-5. [Previous Projects](#previous-projects)
-6. [Intrests](#intrests)
-7. [Skills](#skills)
-8. [Project 1: RTB Average Monthly Rent Report](#project-1-rtb-average-monthly-rent-report)
-9. [Project 2](#project-2)
-10. [Project 3](#project-3)
 
 #### Contact Information
 Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
 Check out my [GitHub](https://www.github.com/liamdkn/)<br> 
 Email: liamdurkan24@icloud.com
+
+
 
 ## About Me
 
