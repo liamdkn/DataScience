@@ -1,40 +1,109 @@
-Welcome to the README file for lab 1 of concurrent programming. 
+# Data Science & Machine Learing Portfolio
 
-# Table of Contents
-1. [Information](#project-licence-gpl3)
-2. [To Do](#to-do)
-3. [Included Files](#files-included-in-this-project)
-4. [How to install](#to-install-this-project)
-5. [How to execute](#how-to-complie-and-run-the-project)
+## Introduction
+Welcome to my Data Science and Machine Learing Portfolio!<br>
+My name is Liam Durkan, and I am on track to graduate from South East Technological University with a BSc(Honours) in Software Development.<br>
+
+#### Contact Information
+Connect with me on [LinkedIn](https://www.linkedin.com/in/liamdurkan/)<br> 
+Check out my [GitHub](https://www.github.com/liamdkn/)<br> 
+Email: liamdurkan24@icloud.com
+
+## About Me
+
+### Technical Skills
+I have experience in the following languages: <br> 
+- Java
+- C++
+- C#
+- Python
+- HTML
+- CSS
+- React
+- Assembly Language
+- Bash
+
+Experience in the following softwares: <br>
+- Microsoft 
+    - Azure 
+    - Access
+    - Excel, Powerpoint, Word
+    - VS Code & Visual Studio
+- GitHub
+- Postman
+- Arduino Integrated Enviroment
+- Eclipse
+- Plesk Web Host 
+- Cisco Packet Tracer
+
++highlight technologies more, highlioght skills, 
+summary of technologies, and expand on for each section
+
+---
+### Education
+
+- Currently undergoing a BSc(Honours) in Software Development  - South East Technological University
+- Robotics & Intelligent Devices BSc - Maynooth University (First Year)
+---
+### Professional Background
+In 2023, I completed an internship with NetWatch Ireland.<br>
+This internship was an invaluable learning experience where I used technologies such as; 
+- GraphQl 
+- C#
+- ASPNET.Core 
+- MySql 
+- Azure
+- Postman
+
+---
+### Previous Projects
+Throught my years of study, I have completed many projects that are linked below;
+
+- Music Library & Playlist Streaming Application - SETU
+- Line-Following Robot Using Arduino - Maynooth University
+- Blood Bank Management System - Carlow IT
+- Invoice Manager - Carlow IT 
+
+---
+### Intrests
+I will write my intrests here
+
+---
+### Skills
+I will dicuss my technical skills here 
+
+---
 
 
-## Information
+## Data Science & Machine Learning Projects
+### Project 1: RTB Average Monthly Rent Report
 
-#### Project Licence: 
-GPL3
+#### Project Description
+In this project, I use data collected from the centeral satisics office (CSO) to gather statstical data on irelanding increasing rent prices. 
 
-#### Project Author: 
-Original Author: Joseph Keohe<br>
-Makefile and modifications: Liam Durkan
+#### Project Goals
+- Analyse and visualise rent trends over time.
+- Build a machine learing model to predict future rental prices.
+- Compare regional differences in prices.
 
-## To install this project
-1. Check that gcc is installed on the machine. I am using using version 11.0.3 
-2. Create a clone of the repositiory
-3. Open a terminal and navigate to the project directory. 
+#### Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebooks 
 
+#### Outcome & Results
+I will discuss the results of the RTB average rent report
 
-## Files included in this project:
-- Makefile - Complies helloThreads.cpp, mutualEx.cpp & Semaphore.cpp and creates an executable 
-- helloThreads.cpp - C++ file to demonstrate using semaphores. 
-- mutualEx.cpp - C++11 file using mutex and condition variables to implement an example of a rendezvous for threads
-- Semaphore.cpp - Uses C++11 features such as mutex and condition variables to implement Semaphore
-- Semaphore.h - Header file using C++11 features such as mutex and condition variables to implement Semaphore
-- README - This file. Contaning information for Lab1, how to install, compile & execute 
+---
 
-## How to complie and run the project
-Prerequisites: [How to install](#to-install-this-project)
-1. Open a new terminal and navigate to the repositorys directory.
-2. To complie and create an executable for helloThreads & mutualEx type make in the terminal. 
-3. To compile and create an executable for helloThreads type make helloThreads in the terminal
-4. To compile and create an executable for mutualEx type make mutualEx in the terminal
-5. To clean up .o files created by the project, type make CLEAN in the terminal. 
+### Project 2
+#### Project Description
+#### Project Goals
+#### Tools and Technologies
+---
+
+### Project 3
+#### Project Description
+#### Project Goals
+#### Tools and Technologies
