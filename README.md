@@ -28,7 +28,7 @@ Email: liamdurkan24@icloud.com
 
 ### Technical Skills
 I have experience in the following languages: <br> 
-- Java
+- Proficient in Java
 - C++ 
 - C#
 - Python
@@ -60,11 +60,11 @@ Experience in the following softwares: <br>
 ### Professional Background
 In 2023, I completed an internship with NetWatch Ireland.<br>
 This internship was an invaluable learning experience where I used technologies such as; 
+- Azure
 - GraphQl 
 - C#
 - ASPNET.Core 
 - MySql 
-- Azure
 - Postman
 
 ---
@@ -86,6 +86,18 @@ Within software development there are a few areas I am specificaly intreseted in
 I will dicuss my technical skills here 
 
 ---
+### Volunteer Work
+
+Throughout my three years studying software development I have acquired many skills in building websites. I decided to put them to use and volunteer to help with my local hurling club’s website for my village.<br> 
+- The website is powered by clubforce which is an all-in-one platform that hosts the website and allows us to host a weekly lottery. The funds generated from this lottery are vital for the day-to-day operations of the hurling club offering locals a simple way to raise funds. 
+- The website acts as a digital bulletin for all news relating to the hurling club. It delivers club notices, details on events, fixtures and results, and other club announcements. My main role with the website is on the bulletin when a match report comes in from the club. <br><br>
+
+My experience in helping manage the hurling club website has shown me the impact that technology can have on a community and is an achievement that I am proud to be a part of in my village.<br><br>
+Check out the website [here!](https://kilmessangaa.clubforce.com)
+
+
+
+___
 
 
 ## Data Science & Machine Learning Projects
