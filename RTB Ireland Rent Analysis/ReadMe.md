@@ -17,7 +17,7 @@ In this project, I utilise data collected from the [Property Services Regulatory
 
 
 #### Data Sets
-1. The first, and largerst data set I am using is 'Property Price Register Ireland'. The raw file contains 476745 rows and 9 columns. Data included is the: 
+1. The first, and largest data set I am using is 'Property Price Register Ireland'. The raw file contains 476745 rows and 9 columns. Data included is the: 
     - Sale Date (2010 - 2021)
     - County
     - Sale Price
