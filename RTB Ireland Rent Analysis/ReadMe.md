@@ -57,7 +57,7 @@ In this project, I utilise data collected from the [Property Services Regulatory
     - Dropping rows with null value
     - Removing male/female rows, only keeping sum of both sexes. 
     - Removing 'All counties' sumed values. 
-- Afte cleaning the data there are 624 rows & 4 columns (Statistic Label, Year, County, Value)
+- After cleaning the data there are 624 rows & 4 columns (Statistic Label, Year, County, Value)
 
 
 #### Tools and Technologies
