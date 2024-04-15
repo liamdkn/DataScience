@@ -2,7 +2,5 @@
 SEM1/Images
 SEM2/2 - Support Vector Machines/archive-2/
 SEM2/2 - Support Vector Machines/cifar-10-batches-py/
-*.csv
 SEM2/3 - K Nearest Neighbour/spambase.data
-*.png
 SEM2/1 - Naive-Bayes/Naive-Bayes-Modified OG.ipynb
