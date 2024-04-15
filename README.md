@@ -22,10 +22,16 @@ The project structure involves creating a Jupyter notebook for each covered mach
  - Modified Notebook: Predicitng if email is spam or not
 4. **K Means Clustering.ipynb**
  - Original Notebook: Digit classification & China image compression
- - Modified Notebook: Iris classification & Flower image compression 
-
-The next notebook to be worked on is:
-5. **Artificial Neural Networks.ipynb**
+ - Modified Notebook: Iris classification & Flower image compression
+5. **FeedFoward Neural Nural Network**
+ - Original Notebook: Handwritten Digit Classifier
+ - Modified Notebook: Clothes Image Classifier 
+6. **MultiLayer Perceptron Network**
+ - Original Notebook: Handwritten Digit Classifier
+ - Modified Notebook: Clothes Image Classifier 
+7. **Convolutional Neural Network**
+ - Original Notebook: Handwritten Digit Classifier
+ - Modified Notebook: Clothes Image Classifier 
 
 ### Deployment 
 To run the deployment, the deployment script must be running. Then navigate to 
